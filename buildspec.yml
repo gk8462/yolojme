@@ -14,8 +14,8 @@ phases:
 # Include only the files required for your application to run.
 artifacts:
   files:
-    - backEnd/app.js
+    - app.js
     - yolo/public/index.html
-    - backEnd/package.json
+    - package.json
     - yolo/package.json
     - node_modules/**/*
